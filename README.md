@@ -2,9 +2,11 @@
 The Employee Management Application is a console-based application developed in Java, designed to manage employee records effectively. This application allows the user to perform CRUD (Create, Read, Update, Delete) operations on employee data, making it a simple yet powerful tool for managing an organization's workforce.
 
 Core Features
+
   Add Employee:
     Allows users to create new employee records.
     Users input details such as ID, name, age, designation, department, and salary, which are stored in a HashSet.
+    
   View Employee:
     Retrieves and displays details of a specific employee based on the unique employee ID.
     Validates the ID to ensure the record exists.
